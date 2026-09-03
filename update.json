@@ -12,11 +12,11 @@
     "1.21.1": {
       "4.0.11.8": {
         "url": "https://github.com/xhymogo/MogoEngine4-Updates/releases/download/MoGoEngine4.0.11.8/mogo_engine4-4.0.11.8.jar",
-        "sha256": "70B42C38A6C2A66CCB1AB149D216AC8FD80F04E6BCD5E8EBDBA1D15BD6501740"
+        "sha256": "71505240CCD985DA7E2E10AC2C7F11C906BDD3EA6DF5DD414BED99D3249B27AA"
       },
       "4.0.11.9": {
         "url": "https://github.com/xhymogo/MogoEngine4-Updates/releases/download/MoGoEngine4.0.11.9/mogo_engine4-4.0.11.9.jar",
-        "sha256": "D64F5D88985265209E63754E76A1EB5F9CB9543C73BCEEA7B94D200195625601"
+        "sha256": "43B62718D305049BC42695B92A1D557997176EB5846C3B1E80068B1AC7E22F53"
       }
     }
   }
