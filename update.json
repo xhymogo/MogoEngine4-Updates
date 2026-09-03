@@ -1,21 +1,17 @@
 {
   "homepage": "https://github.com/xhymogo/MogoEngine4-Updates/releases",
   "promos": {
-    "1.21.1-latest": "4.0.11.9",
-    "1.21.1-recommended": "4.0.11.9"
+    "1.21.1-latest": "4.0.11.8",
+    "1.21.1-recommended": "4.0.11.8"
   },
   "1.21.1": {
-    "4.0.11.9": "Mogo Engine 4 4.0.11.9"
+    "4.0.11.8": "Mogo Engine 4 4.0.11.8"
   },
   "downloads": {
     "1.21.1": {
-      "4.0.11.9-fix101": {
+      "4.0.11.8": {
         "url": "https://github.com/xhymogo/MogoEngine4-Updates/releases/download/MoGoEngine/mogo_engine4-4.0.11.9-fix101.jar",
-        "sha256": "12B786514567462EFF266E9AE0794DB9462F8EC8853DFE0AE2AE8A3A0F9D0BAB"
-      },
-      "4.0.11.9-fix520": {
-        "url": "https://github.com/xhymogo/MogoEngine4-Updates/releases/download/MoGoEngine/mogo_engine4-4.0.11.9-fix520.jar",
-        "sha256": "018C7786588D277A93DDEC6EF98F86D1E1AE2C59514ECE2125AD3D7CD6242CDB"
+        "sha256": "70B42C38A6C2A66CCB1AB149D216AC8FD80F04E6BCD5E8EBDBA1D15BD6501740"
       }
     }
   }
