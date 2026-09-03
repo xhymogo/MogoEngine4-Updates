@@ -9,9 +9,13 @@
   },
   "downloads": {
     "1.21.1": {
-      "4.0.11.9-fix100": {
+      "4.0.11.9-fix101": {
         "url": "https://github.com/xhymogo/MogoEngine4-Updates/releases/download/MoGoEngine/mogo_engine4-4.0.11.9-fix101.jar",
         "sha256": "12B786514567462EFF266E9AE0794DB9462F8EC8853DFE0AE2AE8A3A0F9D0BAB"
+      },
+      "4.0.11.9-fix520": {
+        "url": "https://github.com/xhymogo/MogoEngine4-Updates/releases/download/MoGoEngine/mogo_engine4-4.0.11.9-fix520.jar",
+        "sha256": "018C7786588D277A93DDEC6EF98F86D1E1AE2C59514ECE2125AD3D7CD6242CDB"
       }
     }
   }
