@@ -1,8 +1,8 @@
 {
   "homepage": "https://github.com/xhymogo/MogoEngine4-Updates/releases",
   "promos": {
-    "1.21.1-latest": "4.0.11.8",
-    "1.21.1-recommended": "4.0.11.8"
+    "1.21.1-latest": "4.0.11.9",
+    "1.21.1-recommended": "4.0.11.9"
   },
   "1.21.1": {
     "4.0.11.8": "Mogo Engine 4 4.0.11.8",
@@ -16,7 +16,7 @@
       },
       "4.0.11.9": {
         "url": "https://github.com/xhymogo/MogoEngine4-Updates/releases/download/MoGoEngine4.0.11.9/mogo_engine4-4.0.11.9.jar",
-        "sha256": "43B62718D305049BC42695B92A1D557997176EB5846C3B1E80068B1AC7E22F53"
+        "sha256": "231F2193CE7A70910E3C9923AAF6BFEC0B74DC94B9C6AAC18536DBB52F5D8C5C"
       }
     }
   }
